@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "ce1a8c61e014dac5",
+    "type": "split",
+    "children": [
+      {
+        "id": "16c63ad3191dccef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b62516098139533",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11 Postgres/11.12 Создаём роль и базу.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11.12 Создаём роль и базу"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b851f03fbe0bbf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c77bf061c8b46b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d308b94bd35068a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7c559d2b5586d336",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dfec48857131e894",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cd88628182021d56",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cddb98e215ea890",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba445c37f7de4cb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "11 Postgres/11.12 Создаём роль и базу.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 11.12 Создаём роль и базу"
+            }
+          },
+          {
+            "id": "ba677d2825af94a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "11 Postgres/11.18 SQL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 11.18 SQL"
+            }
+          },
+          {
+            "id": "0b9b72c20f9585df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e560e7dc87955d8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "11 Postgres/11.18 SQL.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 11.18 SQL"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "4b62516098139533",
+  "lastOpenFiles": [
+    "11 Postgres/11.51 Агрегатные функции.md",
+    "11 Postgres/11.49.3 Связь one-to-one.md",
+    "11 Postgres/11.49.2 Связь many-to-many.md",
+    "11 Postgres/11.30.1 Исторические данные.md",
+    "11 Postgres/11.05 Устанавливаем в WSL.md",
+    "11 Postgres/11.12 Создаём роль и базу.md",
+    "Welcome.md",
+    "11 Postgres/11.18 SQL запросы.md",
+    "05 Сети/11. Nat.md",
+    "11 Postgres/11.38.2 Джойны 2.md",
+    "11 Postgres/11.38.3 Джойны 3.md",
+    "11 Postgres/11.49.1 Связь one-to-many.md",
+    "11 Postgres/11.36 Возможности psql.md",
+    "11 Postgres/11.38.1 Джойны 1.md",
+    "11 Postgres/11.28 Enum.md",
+    "11 Postgres/11.37 Алиасы.md",
+    "11 Postgres/11.35 Сиквенсы.md",
+    "11 Postgres/11.29 Даты.md",
+    "11 Postgres/11.11 Структура языка SQL.md",
+    "11 Postgres/11.06 Устанавливаем в контейнере.md",
+    "11 Postgres/11.33 JSON и JSONB.md",
+    "11 Postgres/11.31 Масивы.md",
+    "06 DNS/00. Доменные имена и зоны.md",
+    "11 Postgres/11.32.1 Реляционные БД.md",
+    "11 Postgres/11.27 Символьные типы данных.md",
+    "11 Postgres/11.15 Схемы.md",
+    "Attachments/Screenshot 2024-10-07 004526.png",
+    "11 Postgres",
+    "10 Chrome",
+    "Attachments/All_active_dns_record_types.png",
+    "Attachments/d7b6719b-3e9c-4441-9024-6692b8b57e1a.png",
+    "Attachments/hgW8mkSirqYHZWLkYLGuSG13sSA3-2le963zm8.jpg",
+    "Attachments/htop-bottom.png",
+    "06 DNS",
+    "07 HTTP, HTTPS",
+    "Attachments/iso-osi-vs-tcp-ip-model.png",
+    "Attachments/9.png",
+    "05 Сети",
+    "03 Общие вопросы/Репрезентация Python",
+    "Attachments",
+    "hgW8mkSirqYHZWLkYLGuSG13sSA3-2le963zm8.jpg",
+    "04 Linux",
+    "03 Общие вопросы"
+  ]
+}
